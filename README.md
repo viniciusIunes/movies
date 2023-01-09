@@ -1,4 +1,4 @@
-### Jogo da Adivinhação
+### MOVIES APP
 
 Back end, onde foi feita uma API com as seguintes funções:
 - Cadastra usuários;
